@@ -1,1 +1,1 @@
-
+This project uses Ansible to automate the installation and setup of Jenkins, Java, Docker, Maven, and kubectl on an Ubuntu server. The playbook installs all dependencies, starts and enables the Jenkins service, and adds the Jenkins user to the Docker group for CI/CD integration.
